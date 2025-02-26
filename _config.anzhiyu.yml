@@ -1,0 +1,60 @@
+# Anzhiyu Config
+
+# Favicon
+
+favicon:
+small: https://cdn.luogu.com.cn/upload/usericon/1366636.png
+medium: https://cdn.luogu.com.cn/upload/usericon/1366636.png
+
+
+# Anzhiyu Menu
+
+menu:
+  文章:
+    分类: /categories/ || anzhiyu-icon-shapes
+    标签: /tags/ || anzhiyu-icon-tags
+
+  互动:
+    留言板: /comments/ || anzhiyu-icon-envelope
+    Email: mailto:johnchiao@outlook.com || anzhiyu-icon-email
+
+  关于:
+    关于本人: https://luogu.com.cn/user/1366636 || anzhiyu-icon-paper-plane
+    随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
+
+
+# Nav Bar
+
+nav:
+  enable: true
+  travelling: false
+  clock: false
+  menu:
+    - title: 网页
+      item:
+        - name: 博客
+          link: https://johnch.pages.dev/
+          icon: /img/favicon.png
+
+# 作者卡片 状态
+author_status:
+  enable: true
+  skills:
+    - 🤖️ 数码科技爱好者
+    - 🔍 分享与热心帮助
+    - 🏃 脚踏实地行动派
+
+# Social Icons
+
+social:
+  Github: https://github.com/JohnChiao75 || anzhiyu-icon-github
+
+
+# Content Settings
+
+highlight_shrink: true #代码框不展开，需点击 '>' 打开
+
+# Disable Donating
+
+reward:
+  enable: false
