@@ -5,7 +5,7 @@
 # Site
 title: JohnCh's Home
 subtitle: 'A blog of technology'
-description: ''
+description: 'Not first, but best.'
 keywords:
 author: John Chiao
 language: zh-CN
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: anzhiyu
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
