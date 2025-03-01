@@ -101,7 +101,9 @@ theme: anzhiyu
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:JohnChiao75/johnch.git
+  branch: master
 
 #envelope_comment
 #seehttps://akilar.top/posts/e2d3c450/
