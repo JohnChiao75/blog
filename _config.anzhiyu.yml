@@ -52,10 +52,11 @@ peoplecanvas:
   enable: false
   img: https://upload-bbs.miyoushe.com/upload/2023/09/03/125766904/ee23df8517f3c3e3efc4145658269c06_5714860933110284659.png
 
-# home_top:
-#   - 开发
-#   - 日常
-#   - OI
+home:
+  top:
+    - 开发
+    - 日常
+    - OI
 
 # Anzhiyu Menu
 
@@ -108,3 +109,12 @@ highlight_shrink: true #代码框不展开，需点击 '>' 打开
 
 reward:
   enable: false
+
+# Comment
+
+comments: 
+  use: Valine
+
+valine:
+  appId: QPFrQn7q01nwYjf2nG2J6Bzc-MdYXbMMI
+  appKey: noTKgp4MR6g39s7D4qztAG89
